@@ -1,3 +1,4 @@
+//ilham
 <?php
 $barang = [
     ['id' => 1, 'nama' => 'Buku', 'kategori' => 'Alat Tulis', 'harga' => 20000],
@@ -111,3 +112,4 @@ if (isset($_POST['edit'])) {
     <?php endif; ?>
 </body>
 </html>
+
